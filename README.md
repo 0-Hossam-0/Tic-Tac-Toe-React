@@ -30,3 +30,13 @@ This project is a simple Tic Tac Toe game built with React. It demonstrates the 
 
    ```sh
    git clone https://github.com/0-Hossam-0/Tic-Tac-Toe-React.git
+   ```
+2. **Install Packages:**
+   ```sh
+   npm install
+   ```
+3. **Run Project:**
+   ```sh
+   npm run build
+   npm start
+   ```
