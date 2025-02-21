@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Tic Tac Toe Game (React)
 
-## Getting Started
+## Overview
 
-First, run the development server:
+This project is a simple Tic Tac Toe game built with React. It demonstrates the fundamentals of state management, component-based architecture, and user interactivity in React. Play against a friend as you take turns marking the grid, with automatic win detection and a clean, responsive UI.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Two-Player Game:** Compete against a friend by taking turns.
+- **Win Detection:** Automatically detects winning combinations and highlights the winning cells.
+- **Game Reset:** Restart the game easily after a win or a draw.
+- **React State Management:** Uses React hooks to manage game state efficiently.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **React:** For building a modular, component-based user interface.
+- **JavaScript (ES6+):** Powers the game logic and state management.
+- **CSS3:** For styling and responsive design.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Tic Tac Toe](https://github.com/0-Hossam-0/Tic-Tac-Toe-React/blob/main/XO1.png)
+![Tic Tac Toe](https://github.com/0-Hossam-0/Tic-Tac-Toe-React/blob/main/XO2.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Installation
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **Clone the Repository:**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```sh
+   git clone https://github.com/0-Hossam-0/Tic-Tac-Toe-React.git
